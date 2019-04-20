@@ -21,7 +21,7 @@ $params = {
 $sub_domain = 'www'
 ```
 
-- **login_token:** You can get login_token from <a href="https://www.dnspod.cn/console/user/security">**here**</a>. **NOTE THAT** login_token format is **'ID,Token'**. For more information about <a herf="https://support.dnspod.cn/Kb/showarticle/tsid/227/">**login_token**</a>.
+- **login_token:** You can get login_token from <a href="https://www.dnspod.cn/console/user/security">**here**</a>. **NOTE THAT** login_token format is **'ID,Token'**. For more information about <a href="https://support.dnspod.cn/Kb/showarticle/tsid/227/">**login_token**</a>.
   
 - **domain**: Which domain you want to modify. You can get **domain_id** by API **Domain.List**
   
